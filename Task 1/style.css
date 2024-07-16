@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-top: 4px dotted yellow;
+    border-right: 4px dotted pink;
+    border-bottom:4px dotted red;
+    border-left: 4px dotted lightskyblue;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 300px;
+    overflow: auto;
+    font-size: 25px;
+    border-top: 4px dotted yellow;
+    border-right: 4px dotted pink;
+    border-bottom:4px dotted red;
+    border-left: 4px dotted lightskyblue;
+
+}
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+  }

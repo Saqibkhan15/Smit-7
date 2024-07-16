@@ -1,0 +1,35 @@
+div.bar {
+    background-color: #000000;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.bar a {
+    display: inline-block;
+    color:gray;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.bar a:hover {
+    background-color: silver
+}
+
+h1 {
+    color: black;
+
+}
+
+h2 {
+    color: silver;
+
+}
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+  }
